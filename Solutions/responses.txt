@@ -1,0 +1,2 @@
+7. The JSON document is only 44.5% (555 bytes) of the XML document (1000bytes).
+
